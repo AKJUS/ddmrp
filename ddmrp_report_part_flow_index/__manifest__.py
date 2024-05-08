@@ -15,6 +15,7 @@
     ],
     "data": [
         "security/ir.model.access.csv",
+        "security/report_ddmrp_part_plan_flow_index_security.xml",
         "reports/report_ddmrp_part_plan_flow_index_views.xml",
         "views/ddmrp_flow_index_group_views.xml",
         "views/stock_buffer_view.xml",
