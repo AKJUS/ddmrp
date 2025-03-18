@@ -11,17 +11,4 @@
             </field>
         </field>
     </record>
-    <record id="view_make_procure_without_security" model="ir.ui.view">
-        <field name="name">Request Procurement Packaging</field>
-        <field name="model">make.procurement.buffer</field>
-        <field name="inherit_id" ref="ddmrp.view_make_procure_without_security" />
-        <field name="arch" type="xml">
-            <field name="packaging_id" position="attributes">
-                <attribute name="invisible">1</attribute>
-            </field>
-            <field name="packaging_qty" position="attributes">
-                <attribute name="invisible">1</attribute>
-            </field>
-        </field>
-    </record>
 </odoo>

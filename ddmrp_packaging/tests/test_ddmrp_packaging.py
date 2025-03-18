@@ -2,7 +2,7 @@
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
 
 from odoo.exceptions import ValidationError
-from odoo.tests.common import Form
+from odoo.tests import Form
 
 from odoo.addons.ddmrp.tests.test_distributed_max_proc_time import TestDdmrpMaxProcTime
 
@@ -49,7 +49,7 @@ class TestDdmrpPackaging(TestDdmrpMaxProcTime):
 
         buffer_form = Form(self.buffer2)
         buffer_form.packaging_id = self.packaging1
-        buffer_form.package_multiple = 3.3
+        buffer_form.package_multiple = 4
 
         self.buffer1.write(
             {
