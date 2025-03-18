@@ -31,6 +31,7 @@ addon | version | maintainers | summary
 [ddmrp_report_part_flow_index](ddmrp_report_part_flow_index/) | 18.0.1.0.0 | [![JordiBForgeFlow](https://github.com/JordiBForgeFlow.png?size=30px)](https://github.com/JordiBForgeFlow) [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Provides the DDMRP Parts Flow Index Report
 [ddmrp_warning](ddmrp_warning/) | 18.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Adds configuration warnings on stock buffers.
 [ddmrp_warning_as_job](ddmrp_warning_as_job/) | 18.0.1.0.0 |  | Run DDMRP Warning as jobs
+[stock_buffer_sales_analysis](stock_buffer_sales_analysis/) | 18.0.1.0.0 |  | Allows to access the Sales Analysis from Stock Buffers
 
 [//]: # (end addons)
 
