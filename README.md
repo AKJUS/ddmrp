@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [ddmrp](ddmrp/) | 18.0.1.0.0 | [![JordiBForgeFlow](https://github.com/JordiBForgeFlow.png?size=30px)](https://github.com/JordiBForgeFlow) [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Demand Driven Material Requirements Planning
 [ddmrp_chatter](ddmrp_chatter/) | 18.0.1.0.0 |  | Adds chatter and activities to stock buffers.
+[ddmrp_coverage_days](ddmrp_coverage_days/) | 18.0.1.0.0 |  | Implements Coverage Days.
 [ddmrp_cron_actions_as_job](ddmrp_cron_actions_as_job/) | 18.0.1.0.0 |  | Run DDMRP Buffer Calculation as jobs
 [ddmrp_exclude_moves_adu_calc](ddmrp_exclude_moves_adu_calc/) | 18.0.1.0.0 | [![JordiBForgeFlow](https://github.com/JordiBForgeFlow.png?size=30px)](https://github.com/JordiBForgeFlow) [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Define additional rules to exclude certain moves from ADU calculation
 [ddmrp_exclude_moves_adu_calc_sales](ddmrp_exclude_moves_adu_calc_sales/) | 18.0.1.0.0 | [![DavidJForgeFlow](https://github.com/DavidJForgeFlow.png?size=30px)](https://github.com/DavidJForgeFlow) | DDMRP Exclude Moves ADU Calc integration with Sales app.
