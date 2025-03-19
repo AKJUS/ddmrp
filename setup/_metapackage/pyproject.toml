@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-ddmrp"
-version = "18.0.20250319.0"
+version = "18.0.20250319.1"
 dependencies = [
     "odoo-addon-ddmrp==18.0.*",
     "odoo-addon-ddmrp_adjustment==18.0.*",
@@ -14,6 +14,7 @@ dependencies = [
     "odoo-addon-ddmrp_report_part_flow_index==18.0.*",
     "odoo-addon-ddmrp_warning==18.0.*",
     "odoo-addon-ddmrp_warning_as_job==18.0.*",
+    "odoo-addon-stock_buffer_capacity_limit==18.0.*",
     "odoo-addon-stock_buffer_route==18.0.*",
     "odoo-addon-stock_buffer_sales_analysis==18.0.*",
 ]
