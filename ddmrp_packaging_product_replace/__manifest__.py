@@ -1,7 +1,7 @@
 {
     "name": "DDMRP Packaging Product Replace",
     "summary": "Glue module for DDMRP packaging and product replace",
-    "version": "14.0.1.0.0",
+    "version": "18.0.1.0.0",
     "author": "Camptocamp SA, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/ddmrp",
     "category": "Warehouse Management",
