@@ -592,6 +592,7 @@ msgstr ""
 
 #. module: ddmrp
 #: model:ir.model.fields,field_description:ddmrp.field_product_adu_calculation_method__source_future
+#: model:ir.model.fields,field_description:ddmrp.field_stock_buffer__adu_calculation_method_source_future
 msgid "Future Source"
 msgstr ""
 
@@ -754,11 +755,13 @@ msgstr ""
 
 #. module: ddmrp
 #: model:ir.model.fields,help:ddmrp.field_product_adu_calculation_method__source_future
+#: model:ir.model.fields,help:ddmrp.field_stock_buffer__adu_calculation_method_source_future
 msgid "Information source used for future calculation."
 msgstr ""
 
 #. module: ddmrp
 #: model:ir.model.fields,help:ddmrp.field_product_adu_calculation_method__source_past
+#: model:ir.model.fields,help:ddmrp.field_stock_buffer__adu_calculation_method_source_past
 msgid "Information source used for past calculation."
 msgstr ""
 
@@ -1097,6 +1100,7 @@ msgstr ""
 
 #. module: ddmrp
 #: model:ir.model.fields,field_description:ddmrp.field_product_adu_calculation_method__source_past
+#: model:ir.model.fields,field_description:ddmrp.field_stock_buffer__adu_calculation_method_source_past
 msgid "Past Source"
 msgstr ""
 
@@ -1891,7 +1895,7 @@ msgstr ""
 
 #. module: ddmrp
 #: model_terms:ir.ui.view,arch_db:ddmrp.stock_buffer_view_form
-msgid "View Qualified Demand from Pickings"
+msgid "View Qualified Demand from Moves"
 msgstr ""
 
 #. module: ddmrp
